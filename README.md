@@ -31,7 +31,7 @@ Got compilation errors when following video exactly made some tweaks and got aro
 results do not appear to be what was intended
 
 License
-Copyright [yyyy] [name of copyright owner]
+Copyright [2021] [Amir Utley]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
