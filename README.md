@@ -25,10 +25,14 @@ The following additional features are implemented:
 
  List anything else that you can get done to improve the app functionality!
 
+Video Walkthrough
+![Simple_Todo_PreWork](https://user-images.githubusercontent.com/42733286/131072383-0c412611-7e9f-4e8a-a38f-aae7c6313ca9.gif)
+
+Captured using ScreenToGif
 Notes
 Describe any challenges encountered while building the app.
 Got compilation errors when following video exactly made some tweaks and got around most of them. Completed all necessary components for completion but 
-results do not appear to be what was intended
+results do not appear to be what was intended. The error message that is shown in the gif is what I believe is preventing the app from updating within the emulator but otherwise everything should be done to completion.
 
 License
 Copyright [2021] [Amir Utley]
