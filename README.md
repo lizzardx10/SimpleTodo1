@@ -3,7 +3,7 @@ Simple Todo is an android app that allows building a todo list and basic todo it
 
 Submitted by: **Amir Utley**
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 User Stories
 The following required functionality is completed:
@@ -26,13 +26,15 @@ The following additional features are implemented:
  List anything else that you can get done to improve the app functionality!
 
 Video Walkthrough
-![Simple_Todo_PreWork](https://user-images.githubusercontent.com/42733286/131072383-0c412611-7e9f-4e8a-a38f-aae7c6313ca9.gif)
+![Simple_Todo_PreWork_Corrected](https://user-images.githubusercontent.com/42733286/131262854-10fce1ab-3682-4d8b-9325-50ac525f209e.gif)
+
 
 Captured using ScreenToGif
 Notes
 Describe any challenges encountered while building the app.
 Got compilation errors when following video exactly made some tweaks and got around most of them. Completed all necessary components for completion but 
 results do not appear to be what was intended. The error message that is shown in the gif is what I believe is preventing the app from updating within the emulator but otherwise everything should be done to completion.
+Update: Realized that I had some errors in how I followed the video and needed to add some import statements as well. After adding the import statements and correcting errors code works as intended.
 
 License
 Copyright [2021] [Amir Utley]
